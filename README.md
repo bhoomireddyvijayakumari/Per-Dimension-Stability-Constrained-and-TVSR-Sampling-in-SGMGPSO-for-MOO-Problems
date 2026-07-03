@@ -79,8 +79,7 @@ SGMGPSO_FULL/
 ├── finale-model(sgmgpso-full).ipynb  # Model 6: Full enhanced variant
 │
 ├── ranks-test.ipynb               # Rank comparison
-│
-├── results/                       # All experimental results
+│                       # All experimental results
 │   ├── SGPSO/
 │   │   ├── summary.csv            # Aggregated metrics across benchmarks
 │   │   ├── zdt1/metrics.csv       # Per-run metrics for each function
